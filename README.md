@@ -1,4 +1,4 @@
-# Online-Retail-DB
+# Online_Retail_DB
 
 SECTION ONE: 
 
